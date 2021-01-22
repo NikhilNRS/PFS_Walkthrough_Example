@@ -16,7 +16,7 @@ Directories outline (contained in zip):
 
 inputs_processed_ --- contains titanic sets in a processed way (X-train, X-test etc..)
 
-modules --- contains the code for evolutions. Has some comments but needs more.
+modules --- contains the code for Genetic Programming. Has some comments but needs more.
 
 saved_models --- contains 2 already found models
 
