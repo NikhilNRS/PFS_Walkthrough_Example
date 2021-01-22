@@ -6,7 +6,7 @@ This Walkthrough is intended for showing how to interact with the simpful Probab
 The quickest way to get the code runnning is probably to set up a virtual env using the simpfulediting.yml file.
 Alternatively, one can pip install the master branch of https://github.com/Nikhilrs1993/simpful.
 
-**To quickly see what's possible go through the notebooks following the given order**
+**To quickly see what's possible go through the notebooks following the given order. Unzip the zip file in the root folder (using extract here).**
 
 1. The first one uses automatic modelling for constructing the Probabilistic Fuzzy Model (PFS, using Genetic Programming).
 2. The second one takes a look at the results.
