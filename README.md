@@ -1,7 +1,7 @@
 # Instructions for reading Walkthrough Example
 
 
-This Walkthrough is intended for showing how to interact with the simpful Probabilistic Fuzzy System. It mainly uses the Probabilistic Fuzzy System which can be found at: https://github.com/Nikhilrs1993/simpful and the evolution modules which are listed in the folder `modules`. 
+This Walkthrough is intended for showing how to interact with the simpful Probabilistic Fuzzy System. It mainly uses the Probabilistic Fuzzy System which can be found at: https://github.com/Nikhilrs1993/simpful and the evolution modules which are listed in the folder `modules`. If you just want to view the results, you can just view them online as the results have been saved in the notebooks.
 
 The quickest way to get the code runnning is probably to set up a virtual env using the simpfulediting.yml file.
 Alternatively, one can pip install the master branch of https://github.com/Nikhilrs1993/simpful.
