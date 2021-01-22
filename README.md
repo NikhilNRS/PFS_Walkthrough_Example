@@ -13,25 +13,6 @@ Alternatively, one can pip install the master branch of https://github.com/Nikhi
 3. The third one is how you would `manually` make a PFS model.
 
 
-Directories/ Outline:
-
-Mode                LastWriteTime         Length Name
-----                -------------         ------ ----
-d-----        1/22/2021   3:52 PM                .ipynb_checkpoints
-d-----        1/22/2021   9:12 AM                .vscode
-d-----        1/22/2021   9:11 AM                inputs_processed_
-d-----        1/22/2021   9:50 AM                modules
-d-----        1/22/2021  11:07 AM                saved_models
-d-----        1/22/2021   3:51 PM                saved_pickles
-d-----        1/22/2021   4:00 PM                Titanic_survival_dataset(Contains preprocess steps)
--a----        1/22/2021   3:46 PM          23207 1) Titanic Model - Automatic modeling using Genetic Programming.ipynb
--a----        1/22/2021   3:53 PM         187221 2) Titanic Model Inspection.ipynb
--a----        1/22/2021   3:35 PM          11187 3) Expert defined rules.ipynb
--a----        1/22/2021   4:01 PM              0 README.md
--a----        1/22/2021  10:23 AM         101597 sample_log.log
--a----        1/22/2021   3:57 PM          10178 simpfulediting.yml
-
-
 inputs_processed_ --- contains titanic sets in a processed way (X-train, X-test etc..)
 modules --- contains the code for evolutions. Has some comments but needs more.
 saved_models --- contains 2 already found models
