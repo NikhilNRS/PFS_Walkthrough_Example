@@ -12,11 +12,16 @@ Alternatively, one can pip install the master branch of https://github.com/Nikhi
 2. The second one takes a look at the results obtained from the first one.
 3. The third one contains information on how to `manually` make a PFS model using the simpful PFS system.
 
+Directories outline:
 
 inputs_processed_ --- contains titanic sets in a processed way (X-train, X-test etc..)
+
 modules --- contains the code for evolutions. Has some comments but needs more.
+
 saved_models --- contains 2 already found models
+
 saved_pickles --- Helper folder for saving intermediate results.
+
 Titanic_survival_dataset(Contains preprocess steps) --- contains exact preprocessing steps. Consult if you're interested.
 
 **The best way to read the notebooks is probably in the order given.**
