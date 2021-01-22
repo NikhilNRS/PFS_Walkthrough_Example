@@ -22,10 +22,10 @@ saved_models --- contains 2 already found models
 
 saved_pickles --- Helper folder for saving intermediate results.
 
-Titanic_survival_dataset(Contains preprocess steps) --- contains exact preprocessing steps. Consult if you're interested.
+Titanic_survival_dataset(Contains preprocess steps) --- ontains exact preprocessing steps. Consult if you're interested.
 
 **The best way to read the notebooks is probably in the order given.**
 
-sample_log.log --- contains (some) information about the evoltion process.
+sample_log.log --- contains (some) information about the evolution process.
 
-simpfulediting.yml --- **Probably quickest way to run the code**. However, the only (main) new dependency is sklearn. Specifically the confusion matrix because of the computation speed. An alternative to remove the dependency is commented out in Simpful. However it comes at the price of reduced efficiency.
+simpfulediting.yml --- **Probably quickest way to run the code**. However, the only (main) new dependency is sklearn. Specifically the confusion matrix was used because of the computation speed. An alternative to remove the dependency is commented out in Simpful. However it comes at the price of reduced efficiency.
