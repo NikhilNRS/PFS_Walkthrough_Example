@@ -12,7 +12,7 @@ Alternatively, one can pip install the master branch of https://github.com/Nikhi
 2. The second one takes a look at the results obtained from the first one.
 3. The third one contains information on how to `manually` make a PFS model using the simpful PFS system.
 
-Directories outline:
+Directories outline (contained in zip):
 
 inputs_processed_ --- contains titanic sets in a processed way (X-train, X-test etc..)
 
