@@ -8,9 +8,9 @@ Alternatively, one can pip install the master branch of https://github.com/Nikhi
 
 **To quickly see what's possible go through the notebooks following the given order. Unzip the zip file in the root folder (using extract here).**
 
-1. The first one uses automatic modelling for constructing the Probabilistic Fuzzy Model (PFS, using Genetic Programming).
-2. The second one takes a look at the results.
-3. The third one is how you would `manually` make a PFS model.
+1. The first one uses automatic modelling for constructing the Probabilistic Fuzzy Model (PFS, using Genetic Programming) using the titanic dataset.
+2. The second one takes a look at the results obtained from the first one.
+3. The third one contains information on how to `manually` make a PFS model using the simpful PFS system.
 
 
 inputs_processed_ --- contains titanic sets in a processed way (X-train, X-test etc..)
