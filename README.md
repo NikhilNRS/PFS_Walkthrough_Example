@@ -22,7 +22,7 @@ saved_models --- contains 2 already found models
 
 saved_pickles --- Helper folder for saving intermediate results.
 
-Titanic_survival_dataset(Contains preprocess steps) --- ontains exact preprocessing steps. Consult if you're interested.
+Titanic_survival_dataset(Contains preprocess steps) --- contains exact preprocessing steps. Consult if you're interested.
 
 **The best way to read the notebooks is probably in the order given.**
 
